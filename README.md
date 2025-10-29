@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/endpoint?url=https://dwmkerr.github.io/ai-developer-guide/version-badge.json" alt="Version" />
     <a href="https://www.npmjs.com/package/@dwmkerr/ai-developer-guide-mcp"><img src="https://img.shields.io/npm/v/%40dwmkerr/ai-developer-guide-mcp" alt="ai-developer-guide-mcp"></a>
     <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href="https://github.com/dwmkerr/ai-developer-guide/blob/main/guides/contributors.md"><img src="https://img.shields.io/github/all-contributors/dwmkerr/ai-developer-guide?color=ee8449&style=flat-square" alt="All Contributors" /></a>
-    <!-- ALL-CONTRIBUTORS-BADGE:END -->
+<a href="https://github.com/dwmkerr/ai-developer-guide/blob/main/docs/contributors.md"><img src="https://img.shields.io/github/all-contributors/dwmkerr/ai-developer-guide?color=ee8449&style=flat-square" alt="All Contributors" /></a>
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   </p>
   <p align="center">
     <a href="#quickstart">Quickstart</a> |
